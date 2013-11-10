@@ -1,3 +1,7 @@
+"""
+Code taken directly from http://preshing.com/20110822/penrose-tiling-in-obfuscated-python/
+"""
+
 _                                 =\
                                 """if!
                               1:"e,V=100
