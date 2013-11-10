@@ -1,3 +1,7 @@
+"""
+Code taken directly from http://preshing.com/20110926/high-resolution-mandelbrot-in-obfuscated-python/
+"""
+
 _                                      =   (
                                         255,
                                       lambda
